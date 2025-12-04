@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         BookManager manager = new BookManager();
         manager.start();
+        System.out.println("Krist copyright");
     }
 }
